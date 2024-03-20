@@ -14,7 +14,7 @@ This is a simple to-do list application built using React and Firebase. It allow
 
 ![Todo List App](Todolistwebapp.png)
 ## Live Demo
-You can try the live demo [here]([https://github.com/Andrew191103/To-Do-List-Web-App/tree/main](https://to-do-list-web-app-pi.vercel.app/)).
+You can try the live demo [here](https://to-do-list-web-app-pi.vercel.app/).
 
 
 ## How to Run
